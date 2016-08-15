@@ -31,9 +31,9 @@ pygame.mixer.music.play()
 
 - ASD and arrow keys for local mode movement, W/up arrow to rotate piece.
 
--Networked play only works over local networks.
+- Networked play only works over local networks.
 
--Use circular pieces to break square ones of the same color. Large chains (4+ blocks) will send garbage blocks to opponent, which require 5 piece placements until they become available for breaking.
+- Use circular pieces to break square ones of the same color. Large chains (4+ blocks) will send garbage blocks to opponent, which require 5 piece placements until they become available for breaking.
 
 ## Extra Notes
 
