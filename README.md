@@ -1,15 +1,9 @@
 # catcom
-<<<<<<< HEAD
-=======
+========
 
 ![alt text](https://github.com/Meepasaurus/catcom/blob/master/assets/catcom1.jpg?raw=true "catcom screenshot")
 
 -Python Super Puzzle Fighter clone built with pygame in 2010
->>>>>>> origin/master
-
-![alt text](https://github.com/Meepasaurus/catcom/blob/master/assets/catcom1.jpg?raw=true "catcom screenshot")
-
-- Python Super Puzzle Fighter clone built with pygame in 2010
 
 - group project with:
  
@@ -43,8 +37,4 @@ pygame.mixer.music.play()
 
 ## Extra Notes
 
-<<<<<<< HEAD
 - Assets include unusued character art.
-=======
--Assets include unusued character art.
->>>>>>> origin/master
